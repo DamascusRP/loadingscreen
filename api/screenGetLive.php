@@ -22,7 +22,7 @@
       "Background_Info": [
         [
           -2,
-          "../wallpaper.png",
+          "wallpaper.png",
           "wallpaper.jpg"
         ]
       ],
